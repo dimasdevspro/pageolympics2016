@@ -14,7 +14,7 @@ p{
 .topo{
     height: 142px;
     position: relative;
-    background: url(../assets/header-2-rio-2016.jpg) no-repeat center 0;
+    background: url(../assets/header.jpg) no-repeat center 0;
 }
 
 img.logomarca {
@@ -27,7 +27,7 @@ img.logomarca {
 .rodape{
     height: 71px;
     position: relative;
-    background: url('../assets/footer-rio-20161.jpg') no-repeat center 0;
+    background: url('../assets/header.jpg') center 0;
 }
 
 .rodape small{
